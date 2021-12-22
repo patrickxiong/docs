@@ -11,7 +11,7 @@ description: "How to debug the Dapr sidecar (daprd) on your Kubernetes cluster"
 
 Sometimes it is necessary to understand what's going on in the Dapr sidecar (daprd), which runs as a sidecar next to your application, especially when you diagnose your Dapr application and wonder if there's something wrong in Dapr itself. Additionally, you may be developing a new feature for Dapr on Kubernetes and want to debug your code.
 
-his guide will cover how to use built-in Dapr debugging to debug the Dapr sidecar in your Kubernetes pods.
+This guide will cover how to use built-in Dapr debugging to debug the Dapr sidecar in your Kubernetes pods.
 
 ## Pre-requisites
 
